@@ -1,0 +1,5 @@
+IdPagamento;NomPagamento
+1;Dinheiro
+2;Débito
+3;Crédito
+4;Pix
